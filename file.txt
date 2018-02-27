@@ -1,2 +1,4 @@
 My first line in project
 My second line to be commited with signature
+London is the capital of GB
+Moscow is the capital of Russia
